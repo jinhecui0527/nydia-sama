@@ -1,0 +1,4 @@
+name: Nydia
+voice_model: GPT-SoVITS
+loop_default: once
+realtime_interval_ms: 100
